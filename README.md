@@ -1,1 +1,1 @@
-# jewelry-inventory-api
+# jewelry-inventory-apis
